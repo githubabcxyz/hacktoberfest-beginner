@@ -3,7 +3,7 @@ Make your first contribution for [Hacktoberfest](https://hacktoberfest.digitaloc
 
 You can find my Hacktoberfest guide [Here](https://medium.com/@aselsiriwardena/what-is-hacktoberfest-how-to-get-a-free-t-shirt-9ff2344314c4)
 
-This is an open source project on Github.  Here you can practice making your first Pull Request to a public repository before doing a more complex contribution.
+This is an open source project on Github.  Here you can practice making your first Pull Pulcomplex contribution.
 
 This public repository is open to all members of the Github Community.
 
